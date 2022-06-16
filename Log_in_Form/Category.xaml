@@ -1,0 +1,86 @@
+﻿<Window x:Class="Log_in_Form.Category"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Log_in_Form"
+        mc:Ignorable="d"
+        Title="Category" Height="800" Width="900"
+    Background="lightgray">
+
+    <Window.Resources>
+        <Style x:Key="BigFontStyle">
+            <Setter Property="Control.FontFamily"
+                    Value="Times New Roman" />
+            <Setter Property="Control.FontWeight"
+                    Value="Bold" />
+            <Setter Property="Control.FontSize"
+                     Value=" 28 " />
+        </Style>
+        <Style TargetType="Label" >
+            <Setter Property="FontSize" Value="25"></Setter>
+        </Style>
+        <Style TargetType="TextBox">
+            <Setter Property="Width" Value="301"></Setter>
+            <Setter Property="Height" Value="30"></Setter>
+        </Style>
+        <Style TargetType="ComboBox">
+            <Setter Property="Width" Value="150"></Setter>
+            <Setter Property="Margin" Value="10"></Setter>
+            <Setter Property="Background" Value="Gray"></Setter>
+        </Style>
+        <Style TargetType="Button">
+            <Setter Property="Width" Value="150"></Setter>
+            <Setter Property="Height" Value="30"></Setter>
+            <Setter Property="Canvas.Left" Value="10"></Setter>
+        </Style>
+    </Window.Resources>
+    <StackPanel Name="categoryPanel">
+        
+        <StackPanel Orientation="Horizontal" Margin="15" >
+            <Label Target="{x:Reference Name = Name}">
+                <Label.Content>
+                    Name
+                </Label.Content>
+            </Label>
+            <TextBox x:Name="Name" Text="{Binding Path='CategoryName'}"></TextBox>
+            <Canvas>
+                <Button Canvas.Left="390"  Width="70"  BorderBrush="Red" BorderThickness="3" FontSize="17" Foreground="red" Click="backButton_Click">
+                    <Button.Content >Back</Button.Content>
+                </Button>
+            </Canvas>
+
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Margin="15" >
+            <Label  Target="{x:Reference Name=Description}">_Description</Label>
+            <TextBox x:Name="Description" Text="{Binding Path='CategoryDescription'}"></TextBox>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Margin="15" >
+            <Label>Store Name</Label>
+            <ComboBox Name="cboxStore" >
+                <ComboBox.ItemTemplate>
+                    <DataTemplate>
+                        <TextBlock Text="{Binding Path='storeName'}"></TextBlock>
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+            </ComboBox>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Margin="15">
+            <DataGrid Height="300" Width="800" Margin="20" Name="datagridCategory" SelectionChanged="lboxCategory_SelectionChanged"></DataGrid>
+        </StackPanel>
+        <Canvas >
+            <Button Canvas.Top="44" Click="Button_Click" Name="Add" Canvas.Left="53">
+                <Button.Content>Add</Button.Content>
+            </Button>
+            <Button Canvas.Left="350" Canvas.Top="44" x:Name="Edit" Click="Edit_Click">
+                <Button.Content>Edit</Button.Content>
+
+            </Button>
+            <Button Canvas.Left="660" Canvas.Top="44" Name="Remove" Click="Remove_Click">
+                <Button.Content>Remove</Button.Content>
+            </Button>
+        </Canvas>
+
+    </StackPanel>
+
+</Window>

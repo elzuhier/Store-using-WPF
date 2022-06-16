@@ -1,0 +1,236 @@
+D:\ITI\WPF\Project\Log_in_Form\Log_in_Form\bin\Debug\net6.0-windows\Log_in_Form.exe
+D:\ITI\WPF\Project\Log_in_Form\Log_in_Form\bin\Debug\net6.0-windows\Log_in_Form.deps.json
+D:\ITI\WPF\Project\Log_in_Form\Log_in_Form\bin\Debug\net6.0-windows\Log_in_Form.runtimeconfig.json
+D:\ITI\WPF\Project\Log_in_Form\Log_in_Form\bin\Debug\net6.0-windows\Log_in_Form.dll
+D:\ITI\WPF\Project\Log_in_Form\Log_in_Form\bin\Debug\net6.0-windows\ref\Log_in_Form.dll
+D:\ITI\WPF\Project\Log_in_Form\Log_in_Form\bin\Debug\net6.0-windows\Log_in_Form.pdb
+D:\ITI\WPF\Project\Log_in_Form\Log_in_Form\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\ITI\WPF\Project\Log_in_Form\Log_in_Form\obj\Debug\net6.0-windows\App.g.cs
+D:\ITI\WPF\Project\Log_in_Form\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form_MarkupCompile.cache
+D:\ITI\WPF\Project\Log_in_Form\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form_MarkupCompile.lref
+D:\ITI\WPF\Project\Log_in_Form\Log_in_Form\obj\Debug\net6.0-windows\MainWindow.baml
+D:\ITI\WPF\Project\Log_in_Form\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form.g.resources
+D:\ITI\WPF\Project\Log_in_Form\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\WPF\Project\Log_in_Form\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form.AssemblyInfoInputs.cache
+D:\ITI\WPF\Project\Log_in_Form\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form.AssemblyInfo.cs
+D:\ITI\WPF\Project\Log_in_Form\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form.csproj.CoreCompileInputs.cache
+D:\ITI\WPF\Project\Log_in_Form\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form.dll
+D:\ITI\WPF\Project\Log_in_Form\Log_in_Form\obj\Debug\net6.0-windows\ref\Log_in_Form.dll
+D:\ITI\WPF\Project\Log_in_Form\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form.pdb
+D:\ITI\WPF\Project\Log_in_Form\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form.genruntimeconfig.cache
+D:\ITI\WPF\Project\Log_in_Form\Log_in_Form\bin\Debug\net6.0-windows\WhatsApp Image 2022-02-02 at 6.33.33 PM.jpeg
+D:\ITI\WPF\Project\Log_in_Form\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form_Content.g.cs
+D:\ITI\WPF\Project\Log_in_Form\Log_in_Form\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+D:\ITI\WPF\Project\Log_in_Form\Log_in_Form\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+D:\ITI\WPF\Project\Log_in_Form\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form.csproj.CopyComplete
+D:\ITI\WPF\Project\Log_in_Form\Log_in_Form\obj\Debug\net6.0-windows\App.baml
+D:\ITI\WPF\Project\Log_in_Form\Log_in_Form\bin\Debug\net6.0-windows\admin_user_man_22187.png
+D:\ITI\WPF\Project\Log_in_Form\Log_in_Form\obj\Debug\net6.0-windows\Category.g.cs
+D:\ITI\WPF\Project\Log_in_Form\Log_in_Form\obj\Debug\net6.0-windows\Category.baml
+D:\ITI\WPF\Project\Log_in_Form\Log_in_Form\obj\Debug\net6.0-windows\Product.g.cs
+D:\ITI\WPF\Project\Log_in_Form\Log_in_Form\obj\Debug\net6.0-windows\Product.baml
+D:\ITI\WPF\Project\Log_in_Form\Log_in_Form\obj\Debug\net6.0-windows\Supplier.g.cs
+D:\ITI\WPF\Project\Log_in_Form\Log_in_Form\obj\Debug\net6.0-windows\Supplier.baml
+D:\ITI\WPF\Project\Log_in_Form\Log_in_Form\obj\Debug\net6.0-windows\Distributer.g.cs
+D:\ITI\WPF\Project\Log_in_Form\Log_in_Form\obj\Debug\net6.0-windows\Distributer.baml
+D:\ITI\WPF\Project\Log_in_Form\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form.csproj.AssemblyReference.cache
+D:\ITI\WPF\Project\Log_in_Form\Log_in_Form\obj\Debug\net6.0-windows\Store.g.cs
+D:\ITI\WPF\Project\Log_in_Form\Log_in_Form\obj\Debug\net6.0-windows\Store.baml
+D:\ITI\WPF\Project\3\Log_in_Form\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form.csproj.AssemblyReference.cache
+D:\ITI\WPF\Project\3\Log_in_Form\Log_in_Form\obj\Debug\net6.0-windows\Category.g.cs
+D:\ITI\WPF\Project\3\Log_in_Form\Log_in_Form\obj\Debug\net6.0-windows\Distributer.g.cs
+D:\ITI\WPF\Project\3\Log_in_Form\Log_in_Form\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\ITI\WPF\Project\3\Log_in_Form\Log_in_Form\obj\Debug\net6.0-windows\Product.g.cs
+D:\ITI\WPF\Project\3\Log_in_Form\Log_in_Form\obj\Debug\net6.0-windows\Store.g.cs
+D:\ITI\WPF\Project\3\Log_in_Form\Log_in_Form\obj\Debug\net6.0-windows\Supplier.g.cs
+D:\ITI\WPF\Project\3\Log_in_Form\Log_in_Form\obj\Debug\net6.0-windows\App.g.cs
+D:\ITI\WPF\Project\3\Log_in_Form\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form_Content.g.cs
+D:\ITI\WPF\Project\3\Log_in_Form\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form_MarkupCompile.cache
+D:\ITI\WPF\Project\3\Log_in_Form\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form_MarkupCompile.lref
+D:\ITI\WPF\Project\3\Log_in_Form\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form.dll
+D:\ITI\WPF\Project\3\Log_in_Form\Log_in_Form\obj\Debug\net6.0-windows\ref\Log_in_Form.dll
+D:\ITI\WPF\Project\3\Log_in_Form\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form.pdb
+D:\ITI\WPF\Project\3\Log_in_Form\Log_in_Form\bin\Debug\net6.0-windows\Log_in_Form.exe
+D:\ITI\WPF\Project\3\Log_in_Form\Log_in_Form\bin\Debug\net6.0-windows\admin_user_man_22187.png
+D:\ITI\WPF\Project\3\Log_in_Form\Log_in_Form\bin\Debug\net6.0-windows\WhatsApp Image 2022-02-02 at 6.33.33 PM.jpeg
+D:\ITI\WPF\Project\3\Log_in_Form\Log_in_Form\bin\Debug\net6.0-windows\Log_in_Form.deps.json
+D:\ITI\WPF\Project\3\Log_in_Form\Log_in_Form\bin\Debug\net6.0-windows\Log_in_Form.runtimeconfig.json
+D:\ITI\WPF\Project\3\Log_in_Form\Log_in_Form\bin\Debug\net6.0-windows\Log_in_Form.dll
+D:\ITI\WPF\Project\3\Log_in_Form\Log_in_Form\bin\Debug\net6.0-windows\ref\Log_in_Form.dll
+D:\ITI\WPF\Project\3\Log_in_Form\Log_in_Form\bin\Debug\net6.0-windows\Log_in_Form.pdb
+D:\ITI\WPF\Project\3\Log_in_Form\Log_in_Form\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+D:\ITI\WPF\Project\3\Log_in_Form\Log_in_Form\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+D:\ITI\WPF\Project\3\Log_in_Form\Log_in_Form\obj\Debug\net6.0-windows\App.baml
+D:\ITI\WPF\Project\3\Log_in_Form\Log_in_Form\obj\Debug\net6.0-windows\Category.baml
+D:\ITI\WPF\Project\3\Log_in_Form\Log_in_Form\obj\Debug\net6.0-windows\Distributer.baml
+D:\ITI\WPF\Project\3\Log_in_Form\Log_in_Form\obj\Debug\net6.0-windows\MainWindow.baml
+D:\ITI\WPF\Project\3\Log_in_Form\Log_in_Form\obj\Debug\net6.0-windows\Product.baml
+D:\ITI\WPF\Project\3\Log_in_Form\Log_in_Form\obj\Debug\net6.0-windows\Store.baml
+D:\ITI\WPF\Project\3\Log_in_Form\Log_in_Form\obj\Debug\net6.0-windows\Supplier.baml
+D:\ITI\WPF\Project\3\Log_in_Form\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form.g.resources
+D:\ITI\WPF\Project\3\Log_in_Form\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\WPF\Project\3\Log_in_Form\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form.AssemblyInfoInputs.cache
+D:\ITI\WPF\Project\3\Log_in_Form\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form.AssemblyInfo.cs
+D:\ITI\WPF\Project\3\Log_in_Form\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form.csproj.CoreCompileInputs.cache
+D:\ITI\WPF\Project\3\Log_in_Form\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form.csproj.CopyComplete
+D:\ITI\WPF\Project\3\Log_in_Form\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form.genruntimeconfig.cache
+E:\9-Months\WPF\WPF Project\ProjectWPF\Log_in_Form\bin\Debug\net6.0-windows\Log_in_Form.exe
+E:\9-Months\WPF\WPF Project\ProjectWPF\Log_in_Form\bin\Debug\net6.0-windows\admin_user_man_22187.png
+E:\9-Months\WPF\WPF Project\ProjectWPF\Log_in_Form\bin\Debug\net6.0-windows\WhatsApp Image 2022-02-02 at 6.33.33 PM.jpeg
+E:\9-Months\WPF\WPF Project\ProjectWPF\Log_in_Form\bin\Debug\net6.0-windows\Log_in_Form.deps.json
+E:\9-Months\WPF\WPF Project\ProjectWPF\Log_in_Form\bin\Debug\net6.0-windows\Log_in_Form.runtimeconfig.json
+E:\9-Months\WPF\WPF Project\ProjectWPF\Log_in_Form\bin\Debug\net6.0-windows\Log_in_Form.dll
+E:\9-Months\WPF\WPF Project\ProjectWPF\Log_in_Form\bin\Debug\net6.0-windows\ref\Log_in_Form.dll
+E:\9-Months\WPF\WPF Project\ProjectWPF\Log_in_Form\bin\Debug\net6.0-windows\Log_in_Form.pdb
+E:\9-Months\WPF\WPF Project\ProjectWPF\Log_in_Form\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+E:\9-Months\WPF\WPF Project\ProjectWPF\Log_in_Form\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+E:\9-Months\WPF\WPF Project\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form.csproj.AssemblyReference.cache
+E:\9-Months\WPF\WPF Project\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Category.g.cs
+E:\9-Months\WPF\WPF Project\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Distributer.g.cs
+E:\9-Months\WPF\WPF Project\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\9-Months\WPF\WPF Project\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Product.g.cs
+E:\9-Months\WPF\WPF Project\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Store.g.cs
+E:\9-Months\WPF\WPF Project\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Supplier.g.cs
+E:\9-Months\WPF\WPF Project\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\App.g.cs
+E:\9-Months\WPF\WPF Project\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form_Content.g.cs
+E:\9-Months\WPF\WPF Project\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form_MarkupCompile.cache
+E:\9-Months\WPF\WPF Project\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form_MarkupCompile.lref
+E:\9-Months\WPF\WPF Project\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\App.baml
+E:\9-Months\WPF\WPF Project\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Category.baml
+E:\9-Months\WPF\WPF Project\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Distributer.baml
+E:\9-Months\WPF\WPF Project\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\MainWindow.baml
+E:\9-Months\WPF\WPF Project\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Product.baml
+E:\9-Months\WPF\WPF Project\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Store.baml
+E:\9-Months\WPF\WPF Project\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Supplier.baml
+E:\9-Months\WPF\WPF Project\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form.g.resources
+E:\9-Months\WPF\WPF Project\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form.GeneratedMSBuildEditorConfig.editorconfig
+E:\9-Months\WPF\WPF Project\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form.AssemblyInfoInputs.cache
+E:\9-Months\WPF\WPF Project\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form.AssemblyInfo.cs
+E:\9-Months\WPF\WPF Project\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form.csproj.CoreCompileInputs.cache
+E:\9-Months\WPF\WPF Project\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form.csproj.CopyComplete
+E:\9-Months\WPF\WPF Project\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form.dll
+E:\9-Months\WPF\WPF Project\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\ref\Log_in_Form.dll
+E:\9-Months\WPF\WPF Project\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form.pdb
+E:\9-Months\WPF\WPF Project\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form.genruntimeconfig.cache
+E:\9-Months\WPF\WPF Project\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Store_Form.g.cs
+E:\9-Months\WPF\WPF Project\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Store_Form.baml
+C:\Users\AhmedHesham\Pictures\finaaaaal\ProjectWPF\Log_in_Form\bin\Debug\net6.0-windows\Log_in_Form.exe
+C:\Users\AhmedHesham\Pictures\finaaaaal\ProjectWPF\Log_in_Form\bin\Debug\net6.0-windows\admin_user_man_22187.png
+C:\Users\AhmedHesham\Pictures\finaaaaal\ProjectWPF\Log_in_Form\bin\Debug\net6.0-windows\WhatsApp Image 2022-02-02 at 6.33.33 PM.jpeg
+C:\Users\AhmedHesham\Pictures\finaaaaal\ProjectWPF\Log_in_Form\bin\Debug\net6.0-windows\Log_in_Form.deps.json
+C:\Users\AhmedHesham\Pictures\finaaaaal\ProjectWPF\Log_in_Form\bin\Debug\net6.0-windows\Log_in_Form.runtimeconfig.json
+C:\Users\AhmedHesham\Pictures\finaaaaal\ProjectWPF\Log_in_Form\bin\Debug\net6.0-windows\Log_in_Form.dll
+C:\Users\AhmedHesham\Pictures\finaaaaal\ProjectWPF\Log_in_Form\bin\Debug\net6.0-windows\ref\Log_in_Form.dll
+C:\Users\AhmedHesham\Pictures\finaaaaal\ProjectWPF\Log_in_Form\bin\Debug\net6.0-windows\Log_in_Form.pdb
+C:\Users\AhmedHesham\Pictures\finaaaaal\ProjectWPF\Log_in_Form\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\AhmedHesham\Pictures\finaaaaal\ProjectWPF\Log_in_Form\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\AhmedHesham\Pictures\finaaaaal\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form.csproj.AssemblyReference.cache
+C:\Users\AhmedHesham\Pictures\finaaaaal\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Category.g.cs
+C:\Users\AhmedHesham\Pictures\finaaaaal\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Distributer.g.cs
+C:\Users\AhmedHesham\Pictures\finaaaaal\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\AhmedHesham\Pictures\finaaaaal\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Product.g.cs
+C:\Users\AhmedHesham\Pictures\finaaaaal\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Store.g.cs
+C:\Users\AhmedHesham\Pictures\finaaaaal\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Store_Form.g.cs
+C:\Users\AhmedHesham\Pictures\finaaaaal\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Supplier.g.cs
+C:\Users\AhmedHesham\Pictures\finaaaaal\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\AhmedHesham\Pictures\finaaaaal\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form_Content.g.cs
+C:\Users\AhmedHesham\Pictures\finaaaaal\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form_MarkupCompile.cache
+C:\Users\AhmedHesham\Pictures\finaaaaal\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form_MarkupCompile.lref
+C:\Users\AhmedHesham\Pictures\finaaaaal\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\App.baml
+C:\Users\AhmedHesham\Pictures\finaaaaal\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Category.baml
+C:\Users\AhmedHesham\Pictures\finaaaaal\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Distributer.baml
+C:\Users\AhmedHesham\Pictures\finaaaaal\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\AhmedHesham\Pictures\finaaaaal\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Product.baml
+C:\Users\AhmedHesham\Pictures\finaaaaal\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Store.baml
+C:\Users\AhmedHesham\Pictures\finaaaaal\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Store_Form.baml
+C:\Users\AhmedHesham\Pictures\finaaaaal\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Supplier.baml
+C:\Users\AhmedHesham\Pictures\finaaaaal\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form.g.resources
+C:\Users\AhmedHesham\Pictures\finaaaaal\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AhmedHesham\Pictures\finaaaaal\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form.AssemblyInfoInputs.cache
+C:\Users\AhmedHesham\Pictures\finaaaaal\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form.AssemblyInfo.cs
+C:\Users\AhmedHesham\Pictures\finaaaaal\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form.csproj.CoreCompileInputs.cache
+C:\Users\AhmedHesham\Pictures\finaaaaal\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form.csproj.CopyComplete
+C:\Users\AhmedHesham\Pictures\finaaaaal\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form.dll
+C:\Users\AhmedHesham\Pictures\finaaaaal\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\ref\Log_in_Form.dll
+C:\Users\AhmedHesham\Pictures\finaaaaal\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form.pdb
+C:\Users\AhmedHesham\Pictures\finaaaaal\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form.genruntimeconfig.cache
+C:\Users\AhmedHesham\Desktop\New folder\ProjectWPF\Log_in_Form\bin\Debug\net6.0-windows\Log_in_Form.exe
+C:\Users\AhmedHesham\Desktop\New folder\ProjectWPF\Log_in_Form\bin\Debug\net6.0-windows\admin_user_man_22187.png
+C:\Users\AhmedHesham\Desktop\New folder\ProjectWPF\Log_in_Form\bin\Debug\net6.0-windows\WhatsApp Image 2022-02-02 at 6.33.33 PM.jpeg
+C:\Users\AhmedHesham\Desktop\New folder\ProjectWPF\Log_in_Form\bin\Debug\net6.0-windows\Log_in_Form.deps.json
+C:\Users\AhmedHesham\Desktop\New folder\ProjectWPF\Log_in_Form\bin\Debug\net6.0-windows\Log_in_Form.runtimeconfig.json
+C:\Users\AhmedHesham\Desktop\New folder\ProjectWPF\Log_in_Form\bin\Debug\net6.0-windows\Log_in_Form.dll
+C:\Users\AhmedHesham\Desktop\New folder\ProjectWPF\Log_in_Form\bin\Debug\net6.0-windows\ref\Log_in_Form.dll
+C:\Users\AhmedHesham\Desktop\New folder\ProjectWPF\Log_in_Form\bin\Debug\net6.0-windows\Log_in_Form.pdb
+C:\Users\AhmedHesham\Desktop\New folder\ProjectWPF\Log_in_Form\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\AhmedHesham\Desktop\New folder\ProjectWPF\Log_in_Form\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\AhmedHesham\Desktop\New folder\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form.csproj.AssemblyReference.cache
+C:\Users\AhmedHesham\Desktop\New folder\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Category.g.cs
+C:\Users\AhmedHesham\Desktop\New folder\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Distributer.g.cs
+C:\Users\AhmedHesham\Desktop\New folder\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\AhmedHesham\Desktop\New folder\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Product.g.cs
+C:\Users\AhmedHesham\Desktop\New folder\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Store.g.cs
+C:\Users\AhmedHesham\Desktop\New folder\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Store_Form.g.cs
+C:\Users\AhmedHesham\Desktop\New folder\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Supplier.g.cs
+C:\Users\AhmedHesham\Desktop\New folder\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\AhmedHesham\Desktop\New folder\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form_Content.g.cs
+C:\Users\AhmedHesham\Desktop\New folder\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form_MarkupCompile.cache
+C:\Users\AhmedHesham\Desktop\New folder\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form_MarkupCompile.lref
+C:\Users\AhmedHesham\Desktop\New folder\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\App.baml
+C:\Users\AhmedHesham\Desktop\New folder\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Category.baml
+C:\Users\AhmedHesham\Desktop\New folder\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Distributer.baml
+C:\Users\AhmedHesham\Desktop\New folder\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\AhmedHesham\Desktop\New folder\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Product.baml
+C:\Users\AhmedHesham\Desktop\New folder\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Store.baml
+C:\Users\AhmedHesham\Desktop\New folder\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Store_Form.baml
+C:\Users\AhmedHesham\Desktop\New folder\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Supplier.baml
+C:\Users\AhmedHesham\Desktop\New folder\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form.g.resources
+C:\Users\AhmedHesham\Desktop\New folder\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AhmedHesham\Desktop\New folder\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form.AssemblyInfoInputs.cache
+C:\Users\AhmedHesham\Desktop\New folder\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form.AssemblyInfo.cs
+C:\Users\AhmedHesham\Desktop\New folder\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form.csproj.CoreCompileInputs.cache
+C:\Users\AhmedHesham\Desktop\New folder\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form.csproj.CopyComplete
+C:\Users\AhmedHesham\Desktop\New folder\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form.dll
+C:\Users\AhmedHesham\Desktop\New folder\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\ref\Log_in_Form.dll
+C:\Users\AhmedHesham\Desktop\New folder\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form.pdb
+C:\Users\AhmedHesham\Desktop\New folder\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form.genruntimeconfig.cache
+F:\WPF project\Hams, Kaiman, Eyad, Rania Mohammed\New folder\ProjectWPF\Log_in_Form\bin\Debug\net6.0-windows\Log_in_Form.exe
+F:\WPF project\Hams, Kaiman, Eyad, Rania Mohammed\New folder\ProjectWPF\Log_in_Form\bin\Debug\net6.0-windows\admin_user_man_22187.png
+F:\WPF project\Hams, Kaiman, Eyad, Rania Mohammed\New folder\ProjectWPF\Log_in_Form\bin\Debug\net6.0-windows\WhatsApp Image 2022-02-02 at 6.33.33 PM.jpeg
+F:\WPF project\Hams, Kaiman, Eyad, Rania Mohammed\New folder\ProjectWPF\Log_in_Form\bin\Debug\net6.0-windows\Log_in_Form.deps.json
+F:\WPF project\Hams, Kaiman, Eyad, Rania Mohammed\New folder\ProjectWPF\Log_in_Form\bin\Debug\net6.0-windows\Log_in_Form.runtimeconfig.json
+F:\WPF project\Hams, Kaiman, Eyad, Rania Mohammed\New folder\ProjectWPF\Log_in_Form\bin\Debug\net6.0-windows\Log_in_Form.dll
+F:\WPF project\Hams, Kaiman, Eyad, Rania Mohammed\New folder\ProjectWPF\Log_in_Form\bin\Debug\net6.0-windows\Log_in_Form.pdb
+F:\WPF project\Hams, Kaiman, Eyad, Rania Mohammed\New folder\ProjectWPF\Log_in_Form\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+F:\WPF project\Hams, Kaiman, Eyad, Rania Mohammed\New folder\ProjectWPF\Log_in_Form\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+F:\WPF project\Hams, Kaiman, Eyad, Rania Mohammed\New folder\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form.csproj.AssemblyReference.cache
+F:\WPF project\Hams, Kaiman, Eyad, Rania Mohammed\New folder\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Category.g.cs
+F:\WPF project\Hams, Kaiman, Eyad, Rania Mohammed\New folder\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Distributer.g.cs
+F:\WPF project\Hams, Kaiman, Eyad, Rania Mohammed\New folder\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\MainWindow.g.cs
+F:\WPF project\Hams, Kaiman, Eyad, Rania Mohammed\New folder\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Product.g.cs
+F:\WPF project\Hams, Kaiman, Eyad, Rania Mohammed\New folder\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Store.g.cs
+F:\WPF project\Hams, Kaiman, Eyad, Rania Mohammed\New folder\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Store_Form.g.cs
+F:\WPF project\Hams, Kaiman, Eyad, Rania Mohammed\New folder\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Supplier.g.cs
+F:\WPF project\Hams, Kaiman, Eyad, Rania Mohammed\New folder\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\App.g.cs
+F:\WPF project\Hams, Kaiman, Eyad, Rania Mohammed\New folder\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form_Content.g.cs
+F:\WPF project\Hams, Kaiman, Eyad, Rania Mohammed\New folder\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form_MarkupCompile.cache
+F:\WPF project\Hams, Kaiman, Eyad, Rania Mohammed\New folder\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form_MarkupCompile.lref
+F:\WPF project\Hams, Kaiman, Eyad, Rania Mohammed\New folder\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\App.baml
+F:\WPF project\Hams, Kaiman, Eyad, Rania Mohammed\New folder\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Category.baml
+F:\WPF project\Hams, Kaiman, Eyad, Rania Mohammed\New folder\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Distributer.baml
+F:\WPF project\Hams, Kaiman, Eyad, Rania Mohammed\New folder\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\MainWindow.baml
+F:\WPF project\Hams, Kaiman, Eyad, Rania Mohammed\New folder\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Product.baml
+F:\WPF project\Hams, Kaiman, Eyad, Rania Mohammed\New folder\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Store.baml
+F:\WPF project\Hams, Kaiman, Eyad, Rania Mohammed\New folder\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Store_Form.baml
+F:\WPF project\Hams, Kaiman, Eyad, Rania Mohammed\New folder\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Supplier.baml
+F:\WPF project\Hams, Kaiman, Eyad, Rania Mohammed\New folder\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form.g.resources
+F:\WPF project\Hams, Kaiman, Eyad, Rania Mohammed\New folder\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form.GeneratedMSBuildEditorConfig.editorconfig
+F:\WPF project\Hams, Kaiman, Eyad, Rania Mohammed\New folder\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form.AssemblyInfoInputs.cache
+F:\WPF project\Hams, Kaiman, Eyad, Rania Mohammed\New folder\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form.AssemblyInfo.cs
+F:\WPF project\Hams, Kaiman, Eyad, Rania Mohammed\New folder\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form.csproj.CoreCompileInputs.cache
+F:\WPF project\Hams, Kaiman, Eyad, Rania Mohammed\New folder\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form.csproj.CopyComplete
+F:\WPF project\Hams, Kaiman, Eyad, Rania Mohammed\New folder\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form.dll
+F:\WPF project\Hams, Kaiman, Eyad, Rania Mohammed\New folder\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\refint\Log_in_Form.dll
+F:\WPF project\Hams, Kaiman, Eyad, Rania Mohammed\New folder\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form.pdb
+F:\WPF project\Hams, Kaiman, Eyad, Rania Mohammed\New folder\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\Log_in_Form.genruntimeconfig.cache
+F:\WPF project\Hams, Kaiman, Eyad, Rania Mohammed\New folder\ProjectWPF\Log_in_Form\obj\Debug\net6.0-windows\ref\Log_in_Form.dll

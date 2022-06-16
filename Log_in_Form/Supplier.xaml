@@ -1,0 +1,74 @@
+﻿<Window x:Class="Log_in_Form.Supplier"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:Log_in_Form"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="550" Width="950">
+    <Window.Resources>
+
+
+        <Style TargetType="Button">
+            <Style.Setters>
+                <Setter Property="Background" Value="Beige"></Setter>
+                <Setter Property="Width" Value="120"></Setter>
+                <Setter Property="Height" Value="50"></Setter>
+                <Setter Property="FontSize" Value="20"></Setter>
+                <Setter Property="Foreground" Value="Black"></Setter>
+            </Style.Setters>
+        </Style>
+        <Style TargetType="Label">
+            <Style.Setters>
+                <Setter Property="FontSize" Value="30"></Setter>
+                <Setter Property="Foreground" Value="Black"></Setter>
+            </Style.Setters>
+        </Style>
+        <Style TargetType="TextBox">
+            <Style.Setters>
+                <Setter Property="Width" Value="140"></Setter>
+                <Setter Property="Height" Value="25"></Setter>
+            </Style.Setters>
+        </Style>
+        <Style TargetType="DataGrid">
+            <Style.Setters>
+                <Setter Property="Height" Value="450"></Setter>
+                <Setter Property="Width" Value="500"></Setter>
+
+            </Style.Setters>
+        </Style>
+    </Window.Resources>
+
+    <Viewbox>
+        <Canvas Height="550" Width="1000" Name="Suppanel">
+            <Canvas.Background>
+                <LinearGradientBrush StartPoint="0.1,0" EndPoint="0.9,1">
+                    <GradientStop Color="LightGray" Offset="1" />
+                    <GradientStop Color="DarkGray"
+                              Offset="0" />
+                </LinearGradientBrush>
+            </Canvas.Background>
+            <Border Height="390" VerticalAlignment="Top" CornerRadius="0 0 280 0" Background="Gray">
+            </Border>
+
+            <Label Canvas.Left="70" Canvas.Top="30">ID</Label>
+            <Label Content="Name" Canvas.Left="70" Canvas.Top="80"></Label>
+            <Label Canvas.Left="70" Canvas.Top="130">Phone</Label>
+            <Label Canvas.Left="70" Canvas.Top="180">City</Label>
+            <Canvas>
+                <Button Canvas.Left="910" Canvas.Top="10" Width="70"  BorderBrush="Red" BorderThickness="3" FontSize="17" Foreground="red" Click="backButton_Click">
+                    <Button.Content >Back</Button.Content>
+                </Button>
+            </Canvas>
+            <TextBox  Name="TxtSupplierID" Text="{Binding Path=SupplierID}" Canvas.Left="170" Canvas.Top="40"></TextBox>
+            <TextBox  Name="TxtSupplierName" Text="{Binding Path=SupplierName}" Canvas.Left="170" Canvas.Top="95" TextChanged="TextBox_TextChanged"></TextBox>
+            <TextBox  Name="TxtSupplierPhone" Text="{Binding Path=SupplierPhone}" Canvas.Left="170" Canvas.Top="145"></TextBox>
+            <TextBox  Name="TxtSupplierCity" Text="{Binding Path=SupplierCity}" Canvas.Left="170" Canvas.Top="195"></TextBox>
+            <Button Name="addBtn"  Canvas.Left="100"   Canvas.Bottom="180" Content="ADD" Click="addBtn_Click"></Button>
+            <Button Name="editBtn" Canvas.Left="100" Canvas.Bottom="110" Content="Edit" Click="editBtn_Click"></Button>
+            <Button Name="removeBtn" Canvas.Left="100" Canvas.Bottom="40" Content="Remove" Click="removeBtn_Click"></Button>
+            <DataGrid  Name="gridsupplier"  Canvas.Left="400" Canvas.Top="40" ></DataGrid>
+        </Canvas>
+    </Viewbox>
+</Window>
